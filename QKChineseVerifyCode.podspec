@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "QKChineseVerifyCode"
-  s.version      = "0.0.1"
+  s.version      = "1.0"
   s.summary      = "青客用的中文验证码"
 
   # This description is used to generate tags and improve search results.
