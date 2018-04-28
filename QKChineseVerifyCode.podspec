@@ -83,7 +83,7 @@ Pod::Spec.new do |s|
 
   # s.source       = { :git => "http://EXAMPLE/QKChineseVerifyCode.git", :tag => "#{s.version}" }
   # s.source       = { :svn => "https://github.com/lizhi0123/QKChineseVerifyCode" }
-    s.source       = { :git => "https://github.com/lizhi0123/QKChineseVerifyCode", :tag => "#{s.version}" }
+    s.source       = { :git => "https://github.com/lizhi0123/QKChineseVerifyCode.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
