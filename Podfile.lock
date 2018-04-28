@@ -1,0 +1,23 @@
+PODS:
+  - MBProgressHUD (1.1.0)
+  - QKChineseVerifyCode (0.0.1)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.1.0)
+  - QKChineseVerifyCode (from `.`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  QKChineseVerifyCode:
+    :path: "."
+
+SPEC CHECKSUMS:
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  QKChineseVerifyCode: c40440f8a303e81b1e65191a345fafa2b1e4da81
+
+PODFILE CHECKSUM: 9cecade4239c7fab8786309ea384e259231280fe
+
+COCOAPODS: 1.5.0
